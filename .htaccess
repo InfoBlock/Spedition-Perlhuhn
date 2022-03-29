@@ -1,6 +1,0 @@
-<IfModule mod_rewrite.c>
- RewriteEngine on
- RewriteCond %{REQUEST_URI} !/wartung.html$ [NC]
- RewriteCond %{REQUEST_URI} !\.(jpe?g?|png|gif) [NC]
- RewriteRule .* /wartung.html [R=302,L]
-</IfModule>
