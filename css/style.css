@@ -37,3 +37,8 @@ hr {
     margin: auto;
     width: 40%;
 }
+
+img {
+    height: 200px;
+    width: 200px;
+}
