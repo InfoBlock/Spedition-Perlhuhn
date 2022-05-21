@@ -13,12 +13,6 @@ body, html {
     font-size: 25px;
 }
 
-.topleft {
-    position: absolute;
-    top: 0;
-    left: 16px;
-}
-
 .bottomleft {
     position: absolute;
     bottom: 0;
@@ -42,9 +36,4 @@ body, html {
 hr {
     margin: auto;
     width: 40%;
-}
-
-img {
-    height: 200px;
-    width: 200px;
 }
